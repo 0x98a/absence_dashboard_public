@@ -7,7 +7,7 @@ Hence im the only one working on this (as you can read in the about me) this may
 
 &nbsp;
 
-# absence.gg dashboard
+# absence.gg dashboard / authentication api
 ## about (why this is getting released)
 This is the sourcecode of the absence.gg dashboard, getting released due to a conflict that happen between me and the other owner, where he got mad that i didnt finish the registration page in time (in like a week) cause i didnt feel like, this is after i paid his friend 650€, paid for all the software we use (themida, around 300€) and a GUI that i also paid for 100€, while keeping the server up for over 1.5 years (around 350€) and multiples times paid him in crypto cause he couldnt afford anything.
 This is also after him saying i have the audacity to talk when i can finish registration etc when i have made around 750+ commits on the authentication api & website alone, while he did 11 commits on the project itself.
