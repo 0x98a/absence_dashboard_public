@@ -12,7 +12,9 @@ Hence im the only one working on this (as you can read in the about me) this may
 This is the sourcecode of the absence.gg dashboard, getting released due to a conflict that happen between me and the other owner, where he got mad that i didnt finish the registration page in time (in like a week) cause i didnt feel like, this is after i paid his friend 650€, paid for all the software we use (themida, around 300€) and a GUI that i also paid for 100€, while keeping the server up for over 1.5 years (around 350€) and multiples times paid him in crypto cause he couldnt afford anything.
 This is also after him saying i have the audacity to talk when i can finish registration etc when i have made around 750+ commits on the authentication api & website alone, while he did 11 commits on the project itself.
 
-I really dont feel like continuing this project due to all the money ive put into this and not gotten a single thing out of it, even my old partner tried to destroy new plans when i "replaced" him.
+I really dont feel like continuing this project due to all the money ive put into this and not gotten a single thing out of it, even my old partner tried to destroy new plans when i "replaced" him, telling me that i backstabbed him, that he had seen dm's between me and other companions (which wasnt true, and he was caught lying about it) and so on etc.
+
+^^ Remember this is my side of the story and there is always 2 versions of it from me and the other party.
 
 This should be used as a platform to see how we did stuff with authentication, and other stuff and should not be expected to be able to copy & paste and run this stuff.
 
@@ -24,6 +26,7 @@ I will upload both the API and the website source in this, both the render and t
 Make sure you have the following installed:
 - Node.js (v10.7.0 or higher)
 - npm (comes with Node.js)
+- mysql (for running database)
 
 &nbsp;
 ## Installation
@@ -55,9 +58,10 @@ The application should now be running at http://localhost:3000.
 ## Project Structure
 Here’s an overview of the essential files and folders:
 ```
-/components         # Reusable UI components
+
+Pending for now, will be updated and a list will be shown soon.
+/***         # ***
 /pages              # Next.js page components
-/lib                # Helper functions and service calls
 ```
 
 &nbsp;
