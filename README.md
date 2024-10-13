@@ -29,8 +29,8 @@ Make sure you have the following installed:
 ## Installation
 ### Clone the repository:
 ```
-git clone https://github.com/0x98a/absence_dashboard_public.git
-cd absence_dashboard_public
+git clone https://github.com/0x98a/absence_public.git
+cd absence_public
 ```
 
 ### Install dependencies:
